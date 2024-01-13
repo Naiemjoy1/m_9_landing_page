@@ -271,6 +271,9 @@ h4{
     .facts-card-container{
         gap: 20px;
     }
+    .footer-content {
+        margin: 130px 0;
+    }
 }
 
 /* tablet or medium devices */
@@ -284,6 +287,14 @@ h4{
     .teams-container,
     .sponsors-img-container{
         flex-direction: column;
+    }
+
+    .feature-img img {
+        margin-left: 0;
+    }
+
+    .footer-content {
+        margin: 130px 0;
     }
     
 }
