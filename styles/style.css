@@ -208,6 +208,16 @@ h4{
     width: 165px;
 }
 
+/* footer section */
+.footer-content{
+    padding: 30px;
+    background-color: #FFF4E7;
+    border-radius: 8px;
+    justify-content: center;
+    text-align: center;
+    margin: 130px;
+}
+
 
 
 
